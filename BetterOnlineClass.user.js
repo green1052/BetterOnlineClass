@@ -5,7 +5,7 @@
 // @homepageURL	https://github.com/green1052/BetterOnlineClass
 // @downloadURL https://raw.githubusercontent.com/green1052/BetterOnlineClass/main/BetterOnlineClass.user.js
 // @author		green1052
-// @description	온라인 클래스 강의 창을 여러개 띄울 수 있게 해줍니다.
+// @description	온라인 클래스 강의 창을 여러 개 띄울 수 있게 해줍니다.
 // @include     oc40.ebssw.kr/*/hmpg/hmpgLctrumView.do?
 // @run-at		document-end
 // ==/UserScript==
